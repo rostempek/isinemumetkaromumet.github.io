@@ -1,0 +1,62 @@
+* {
+    font-family: 'Lora';
+}
+
+html {
+    position: relative;
+    scroll-behavior: smooth;
+}
+
+body {
+    margin-bottom: 100px;
+    margin-top: 30px;
+}
+
+.jumbotron img {
+    width: 200px;
+    border: 5px solid #aaaaaa;
+}
+
+hr {
+    width: 250px;
+    border-top: 3px solid #aaaaaa;
+}
+
+section {
+    min-height: 500px;
+}
+
+.portfolio {
+    background-color: #eeeeee;
+}
+
+.contact {
+    min-height: 800px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background-color: #eeeeee;
+    padding-top: 30px;
+}
+
+footer p {
+    color: #aaa;
+    font-size: 0.8em;
+}
+
+footer p i {
+    color: slateblue;
+}
+
+.gm {
+    filter: brightness(50%);
+    transition: filter 0.5s;
+}
+
+.gm:hover {
+    filter: brightness(100%);
+}

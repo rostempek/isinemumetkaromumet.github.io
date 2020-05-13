@@ -1,0 +1,1 @@
+Website ini menggunakan bootstrap versi 4. Jadi untuk mengaksesnya menggunakan akses internet agar dapat optimal. Terimakasih
